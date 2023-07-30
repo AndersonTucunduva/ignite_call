@@ -59,7 +59,7 @@ const timeIntervalsFormSchema = z.object({
       },
       {
         message:
-          'O Horario de termino deve ser pelo menos 1h distante do inicio. ',
+          'O Horário de termino deve ser pelo menos 1h distante do inicio. ',
       },
     ),
 })
@@ -115,7 +115,7 @@ export default function TimeIntervals() {
       <Header>
         <Heading as="strong">Quase lá</Heading>
         <Text>
-          Defina o intervalo de horários que você esta disponivel em cada dia da
+          Defina o intervalo de horários que você esta disponível em cada dia da
           semana.
         </Text>
 
