@@ -11,7 +11,7 @@
   "dependencies": {
     "@hookform/resolvers": "^3.1.1",
     "@ignite-ui/react": "^2.2.4",
-    "@prisma/client": "^4.16.1",
+    "@prisma/client": "^5.1.1",
     "@tanstack/react-query": "^4.32.1",
     "@types/node": "20.3.1",
     "@types/react": "18.2.12",
@@ -36,6 +36,6 @@
   "devDependencies": {
     "@rocketseat/eslint-config": "^1.2.0",
     "@types/cookie": "^0.5.1",
-    "prisma": "^4.16.1"
+    "prisma": "^5.1.1"
   }
 }
